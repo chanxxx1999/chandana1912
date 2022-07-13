@@ -1,0 +1,39 @@
+[props/cloudgateway_untracked-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1657704184.099197000
+
+[props/splunk_secure_gateway_version_request_processor-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1657704184.350265000
+
+[props/dfm_stderr-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1657704184.655022000
+
+[props/ssg_config_modular_input-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1657704184.740946000
+
+[props/dfm_stdout-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1657704184.895210000
+
+[props/first_install-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1657704185.248187000
+
+[props/export_metrics-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1657704185.840619000
+
+[props/splunk_instrumentation-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1657704220.615665000
